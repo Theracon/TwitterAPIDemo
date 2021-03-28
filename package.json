@@ -1,0 +1,21 @@
+{
+  "name": "twitterapidemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ashraf",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "expect": "^26.6.2",
+    "jest": "^26.6.3"
+  }
+}
